@@ -55,22 +55,22 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/vishalkrsharma/github-readme-stats"><img alt="vishalkrsharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishalkrsharma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vishalkrsharma/github-readme-stats"><img alt="vishalkrsharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkrsharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vishalkrsharma/github-readme-stats"><img alt="vishalkrsharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedant45wp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vishalkrsharma/github-readme-stats"><img alt="vishalkrsharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant45wp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/vishalkrsharma/github-readme-activity-graph"><img alt="vishalkrsharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalkrsharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vedant45wp/github-readme-activity-graph"><img alt="vishalkrsharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vedant45wp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vishal-kumar-sharma-955aa0201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/vishalkrsharma1234/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/vedantgupta12"><img src="https://img.icons8.com/fluent/48/00000www.linkedin.com/in/vedantgupta120/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_adoring_vedant/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/vishalkrsharma1234/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <!-- <a href = "https://twitter.com/vishalkr1234"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
